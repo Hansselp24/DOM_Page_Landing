@@ -1,0 +1,39 @@
+[
+    {
+      "precio": 400,
+      "id": 1,
+      "title": "Bicicleta",
+      "thumbnailUrl": "https://images.pexels.com/photos/100582/pexels-photo-100582.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "precio": 2500,
+      "id": 2,
+      "title": "Motocicleta",
+      "thumbnailUrl": "https://picsum.photos/id/10/600"
+    },
+    {
+      "precio": 120,
+      "id": 3,
+      "title": "Patineta",
+      "thumbnailUrl": "https://picsum.photos/id/20/600"
+    },
+    {
+      "precio": 80,
+      "id": 4,
+      "title": "Patines",
+      "thumbnailUrl": "https://picsum.photos/id/30/600"
+    },
+    {
+      "precio": 250,
+      "id": 5,
+      "title": "Bord",
+      "thumbnailUrl": "https://picsum.photos/id/40/600"
+    },
+    {
+      "precio": 200,
+      "id": 6,
+      "title": "Triciclo",
+      "thumbnailUrl": "https://picsum.photos/id/50/600"
+    }
+  ]
+  
